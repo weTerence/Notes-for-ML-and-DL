@@ -8,3 +8,4 @@ Reference link: self attention in NLP：<https://zhuanlan.zhihu.com/p/82312421> 
 
 下面将以机器翻译任务为例，介绍transformer在NLP中的应用。
 
+transformer整体结构：
